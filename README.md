@@ -13,8 +13,9 @@ A [live demo of the finished project](https://fsa-fitness-trackr.netlify.app/) i
 Write code to meet the following requirements. You can always write
 new functions and build new components!
 
-- A _logged-in_ user will see a "delete" button next to each activity in the
-  list of activities.
+<!-- - A _logged-in_ user will see a "delete" button next to each activity in the
+  list of activities. -->
+
 - If the user clicks the delete button for an activity,
   but they are not authorized to delete that activity,
   they will see a corresponding error message.
